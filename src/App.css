@@ -58,4 +58,10 @@ body {
     .app {
         flex-direction: column;
     }
+    .app_header {
+       flex-direction: column;
+    }
+    .app_header h1 {
+       margin-bottom: 15px;
+    }
 }
