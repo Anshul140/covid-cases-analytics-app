@@ -8,3 +8,5 @@ Key Features:
 
 Check out this link: [https://covid-19-cases-analytics.web.app/] 
 
+## PC_VIEW
+![image](https://github.com/Anshul140/covid-cases-analytics-app/blob/master/PC%20View.PNG)
