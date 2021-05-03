@@ -1,6 +1,6 @@
 # COVID-CASES-ANALYTICS APP
 
-Basic web app using React, material-ui, react-leaflet chart.js and [disease.sh] API for stats. 
+Basic web app using React, material-ui, react-leaflet, chart.js and [disease.sh] API for stats. 
 Key Features:
    * Shows Live-Cases, Recoveries, Deaths Worldwide and Country-wise
    * Country-wise pop-ups in map for stats
